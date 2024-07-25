@@ -1,7 +1,7 @@
 # 💫 Sobre mi:
 🔭 Desarrollador web Angular + Java
 <br>
-🌱 También tengo interés en Unity y la ciberseguridad
+🌱 También tengo interés en Unity
 
 
 ## 🌐 Redes Sociales:
